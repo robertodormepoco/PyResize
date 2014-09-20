@@ -1,0 +1,8 @@
+Tool for the resize of an image using different algorithms
+
+* nearest
+* bilinear
+* bicubic
+* antialias
+
+python resize.py {fileName} {width} {height}
